@@ -1,3 +1,5 @@
+
+
 public class inheritance_example {
     
     public static void main(String[] args){
@@ -9,6 +11,10 @@ public class inheritance_example {
         
     }
 }
+
+// note that java support multilevel inheritance but java doesn't support multiple inheritance, 
+// multiple inheritance means we can't do like: class ikkaa extends iskaa,isee. that is not possible, they have to use interface for that.
+
 
 // ikkaa is the original name
 class ikkaa{
